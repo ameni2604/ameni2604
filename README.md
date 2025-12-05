@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Développeur polyvalent et passionné, j’aime construire des systèmes fiables, optimisés et bien structurés, aussi bien en web, backend, frontend, que dans la data et l’ETL.
 🚀 Compétences & Technologies
 🖥️ Backend
@@ -33,4 +33,3 @@ Développeur polyvalent et passionné, j’aime construire des systèmes fiables
   ⚙️ TypeScript
 
 
--->
