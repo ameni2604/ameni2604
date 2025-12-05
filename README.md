@@ -1,16 +1,36 @@
 ## Hi there 👋
 
 <!--
-**ameni2604/ameni2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur polyvalent et passionné, j’aime construire des systèmes fiables, optimisés et bien structurés, aussi bien en web, backend, frontend, que dans la data et l’ETL.
+🚀 Compétences & Technologies
+🖥️ Backend
+  ⚙️ Node.js
+  🌱 Spring Boot
+  🧩 Symfony
+  🛠️ Laravel
+  🐘 PHP
+🎨 Frontend
+  🅰️ Angular
+  ⚛️ React
+  🌐 HTML
+  🎨 CSS
+  🟨 JavaScript
+🗄️ Bases de données
+  🍃 MongoDB
+  🟧 Oracle
+  🗃️ SQL (modélisation, requêtes, optimisation)
 
-Here are some ideas to get you started:
+📊 Big Data & ETL
+🧱 Data Warehousing (Kimball, modèles étoile/snowflake)
+🐘 Hadoop
+🔄 Apache Hop (pipelines, stream lookup, transformations ETL)
+🧩 Langages
+  🌐 HTML
+  🎨 CSS
+  🟨 JavaScript
+  🐘 PHP
+  🧑‍💻 Java
+  ⚙️ TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
