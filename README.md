@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Développeur polyvalent et passionné, j’aime construire des systèmes fiables, optimisés et bien structurés, aussi bien en web, backend, frontend, que dans la data et l’ETL.
+Développeur polyvalent et passionné, j’aime construire des systèmes fiables, optimisés et bien structurés, aussi bien en web, backend, frontend, que dans la data.
 🚀 Compétences & Technologies
 🖥️ Backend
   ⚙️ Node.js
@@ -21,7 +21,6 @@ Développeur polyvalent et passionné, j’aime construire des systèmes fiables
   🗃️ SQL (modélisation, requêtes, optimisation)
 
 📊 Big Data & ETL
-🧱 Data Warehousing (Kimball, modèles étoile/snowflake)
 🐘 Hadoop
 🔄 Apache Hop (pipelines, stream lookup, transformations ETL)
 🧩 Langages
